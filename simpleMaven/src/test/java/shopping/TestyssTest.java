@@ -8,7 +8,7 @@ public class TestyssTest {
 	@Test
 	public void demo()
 	{
-		Reporter.log("again2 tested",true);
+		Reporter.log("again3 tested",true);
 	}
 
 }
